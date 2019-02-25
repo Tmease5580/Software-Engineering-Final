@@ -5,3 +5,5 @@ Final project for Ursinus Software Engineering Course This project was completed
 The basis for our project was an online grocery store in which you could also customize various sandwiches. The program allows the user to add items to their cart, customize and add sandiwhces to their cart, sign in with student or member account to receive discounts, set up the order for pick-up or delivery, and enter their payment information. Once the user completes their order and enters their payment information, they are provided with a receipt and are given the option to quit the program or to begin a new order.
 
 A database file is included with the project which holds the grocery inventory, the list of acceptable student emails, and a list of member usernames and passwords.
+
+The project was completed in Java using the Netbeans IDE and the database was created/managed through SQL.
